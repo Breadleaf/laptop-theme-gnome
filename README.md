@@ -164,6 +164,8 @@ I write in Japanese sometimes and like to have native Japanese typing ready to g
 - start gnome keyboard settings
 - add Japanese in languages list
 
+NOTE: you might need to install fcitx5-qt or fcitx5-gtk
+
 There is no guarantee this will work, these are the steps that finally got it to work for me.
 
 ## Optional Packages
